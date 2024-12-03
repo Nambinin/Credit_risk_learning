@@ -1,0 +1,15 @@
+
+The dataset DataDefaults.csv contains aggregated data on loan defaults.
+Columns are:
+- Earnings: total earnings.
+- Accounts: Number of accounts.
+- Defaults: Number of accounts that defaulted
+
+The dataset data_simulated.csv has been simulated. It comprises the following columns: x, y1, y2, y3, y4.
+
+
+Task1:  Lab 1.1
+
+Task2:  Lab 1.2
+
+Task3:  Lab 1.3

@@ -1,0 +1,5 @@
+The files data_loans.csv  and data_loans_dictionary.csv contain some aggregated loan default data from a lending company.
+
+Task 1: Lab 2.1
+
+Task 2: Lab 2.2
